@@ -21,7 +21,7 @@
 
 Use the `go` command:
 
-	$ go get github.com/NexoMichael/pac
+    go get github.com/NexoMichael/pac
 
 ## Requirements
 
